@@ -1,6 +1,6 @@
 # Projeto Omnistack
 
-Projeto para cadastro de Ongs e casos para crowdfunding.
+Projeto para cadastro de Ongs e casos para crowdfunding utilizando a stack JavaScript. Feita durante a semana Omnistack da Rocketseat.
 
 ## Imagens
 ![Page1](https://user-images.githubusercontent.com/39247769/98860211-13967100-2442-11eb-9546-d0fd633a1aca.jpg)
